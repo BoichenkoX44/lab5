@@ -5,4 +5,4 @@
 lab5\Debug
 lab5\obj
 lab5/obj/*
-.idea
+.idea out*
